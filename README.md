@@ -1,10 +1,12 @@
-### Hi there, I'm Marco 👋
+## Hi there, I'm Marco 👋
 
 #### 🔭 I’m currently working on [Lyfe Bot](https://discord.gg/zAZ3vKJ)
+#### 🌱 I’m currently learning discord.py
+#### 📫 How to reach me: [Discord](https://discord.gg/zAZ3vKJ) or [Twitter](https://twitter.com/NotStealthy)
+#### ⚡ Fun fact: I didn't learn any of this from going to school
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhMarco)](https://github.com/anuraghazra/github-readme-stats)
 
-#### My favourite public repo:
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=UhMarco&repo=LyfeSupport)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **UhMarco/UhMarco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
