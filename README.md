@@ -1,9 +1,10 @@
-## Hi there, I'm Marco 👋
+## Hi, I'm Marco 👋
 
 #### 🔭 I’m currently working on [Lyfe Bot](https://discord.gg/zAZ3vKJ)
 #### 🌱 I’m currently learning discord.py
 #### 📫 How to reach me: [Discord](https://discord.gg/zAZ3vKJ) or [Twitter](https://twitter.com/NotStealthy)
 #### ⚡ Fun fact: I didn't learn any of this from going to school
+<br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhMarco)](https://github.com/anuraghazra/github-readme-stats)
 
