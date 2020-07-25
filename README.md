@@ -1,4 +1,3 @@
-## Hi, I'm Marco 👋
 <img src=https://raw.githubusercontent.com/UhMarco/UhMarco/master/marco-header-white.png>
 
 #### 🔭 I’m currently working on [Lyfe Bot](https://discord.gg/zAZ3vKJ)
