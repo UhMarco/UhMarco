@@ -1,7 +1,7 @@
 ## Hi, I'm Marco 👋
+<img src=https://raw.githubusercontent.com/UhMarco/UhMarco/master/marco-header.png>
 
 #### 🔭 I’m currently working on [Lyfe Bot](https://discord.gg/zAZ3vKJ)
-#### 🌱 I’m currently learning discord.py
 #### 📫 How to reach me: [Discord](https://discord.gg/zAZ3vKJ) or [Twitter](https://twitter.com/NotStealthy)
 #### ⚡ Fun fact: I didn't learn any of this from going to school
 <br />
