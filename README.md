@@ -1,5 +1,5 @@
 ## Hi, I'm Marco 👋
-<img src=https://raw.githubusercontent.com/UhMarco/UhMarco/master/marco-header.png>
+<img src=https://raw.githubusercontent.com/UhMarco/UhMarco/master/marco-header-white.png>
 
 #### 🔭 I’m currently working on [Lyfe Bot](https://discord.gg/zAZ3vKJ)
 #### 📫 How to reach me: [Discord](https://discord.gg/zAZ3vKJ) or [Twitter](https://twitter.com/NotStealthy)
