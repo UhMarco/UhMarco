@@ -1,6 +1,6 @@
 <img src=https://raw.githubusercontent.com/UhMarco/UhMarco/master/marco-header-white.png>
 
-#### 🔭 I’m currently working on [Lyfe Bot](https://discord.gg/zAZ3vKJ)
+#### 🔭 I’m currently working on [Lyfe](https://github.com/UhMarco/Lyfe)
 #### 📫 How to reach me: [Discord](https://discord.gg/zAZ3vKJ) or [Twitter](https://twitter.com/NotStealthy)
 #### ⚡ Fun fact: I didn't learn any of this from going to school
 <br />
