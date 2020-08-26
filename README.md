@@ -1,5 +1,5 @@
 <p align="center">
-    <img style="border-radius: 100px" width="128" height="128" src="https://images-ext-2.discordapp.net/external/j_eyufohBBlL5BoMr1O-XMftwP2cS7PLT3NFX0Ct_48/%3Fsize%3D1024/https/cdn.discordapp.com/avatars/389865778771525643/e856ea41daa0ded67f0fe838345d5da3.webp?size=2048">
+    <img style="border-radius: 100px" width="128" height="128" src="https://raw.githubusercontent.com/UhMarco/UhMarco/master/circle-cropped.png?size=2048">
 </p>
 
 <h1 align="center">UhMarco</h1>
