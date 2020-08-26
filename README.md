@@ -24,6 +24,8 @@
     Hi, I'm a high school student from England with interests in Python, JavaScript and Java.
 </p>
 
-## Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhMarco&layout=compact)
+<h2 align="center">Stats</h2>
+
+
 ![Github stats](https://github-readme-stats.vercel.app/api?username=UhMarco&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhMarco&layout=compact)
