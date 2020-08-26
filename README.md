@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">UhMarco</h1>
+
 <p align="center">
   <a href="https://twitter.com/NotStealthy">
     <img alt="Marco's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -19,6 +20,10 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhMarco)
-![Github stats](https://github-readme-stats.vercel.app/api?username=UhMarco&count_private=true&show_icons=true&include_all_commits=true)
+<p align="center">
+    Hi, I'm a high school student from England with interests in Python, JavaScript and Java.
+</p>
 
+## Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UhMarco&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=UhMarco&count_private=true&show_icons=true&include_all_commits=true&hide_title=true)
