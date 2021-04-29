@@ -21,7 +21,7 @@
 <br/>
 
 <p align="center">
-    Hi, I'm a high school student from England with interests in Python and JavaScript. I also want to learn C++. I'd love to be a software engineer some day. Some of my code is pretty average but I'm still learning.
+    Hi, I'm a high school student from England with interests in Python, JavaScript and C# with unity. I'm always interested in collaborating on projects so shoot me a message if you're interested.
 </p>
 
 <h2 align="center">Stats</h2>
